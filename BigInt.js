@@ -18,3 +18,7 @@ except that division drops any remainder and rounds down (toward zero):
 3000n / 997n // => 3n: the quotient is 3
 3000n % 997n // => 9n: and the remainder is 9
 (2n ** 131071n) - 1n // A Mersenne prime with 39457 decimal digits
+
+
+
+// None of the functions of the Math object accept BigInt operands, however.
