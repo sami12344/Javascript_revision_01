@@ -9,3 +9,4 @@ n.toPrecision(7) // => "123456.8"
 n.toPrecision(10) // => "123456.7890"
 
 
+
